@@ -15,3 +15,8 @@ Q6 - Minimum and Maximum of Array
 
 Q7 - Vowels and Digits
 
+Q8 - String Copy
+
+Q9 - Match String
+
+Q10 - 
