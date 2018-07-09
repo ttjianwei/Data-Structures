@@ -34,3 +34,17 @@ Q15 - Position of digit
 Q16 - Digit of position
 
 Q17 - Square of a Digit
+
+Q18 - Array Sum
+
+Q19 - Compute Average
+
+Q20 - Palindrome Checker
+
+Q21 - Substring Checker
+
+Q22 - Customer Records
+
+Q23 - Sum of Odd Digits
+
+Q24 - Reverse Array
