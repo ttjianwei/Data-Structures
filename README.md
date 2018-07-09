@@ -19,4 +19,12 @@ Q8 - String Copy
 
 Q9 - Match String
 
-Q10 - 
+Q10 - Circle Intersection
+
+Q11 - Contains Circle
+
+Q12 - Arithmetic operations
+
+Q13 - Sum up Digits
+
+Q14 - Count number of Digits
