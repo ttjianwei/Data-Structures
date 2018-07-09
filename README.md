@@ -28,3 +28,9 @@ Q12 - Arithmetic operations
 Q13 - Sum up Digits
 
 Q14 - Count number of Digits
+
+Q15 - Position of digit
+
+Q16 - Digit of position
+
+Q17 - Square of a Digit
